@@ -1,6 +1,6 @@
 # download
 * download.py  
-需要安装python3.X  
+需要安装python3.0以上  
 需要安装requests，BeautifulSoup，tqdm库
 * * *
 * 实现方法  
